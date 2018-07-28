@@ -1,4 +1,4 @@
-# LogAnalysis1
+# LogAnalysis
 
 The third project  of Udacity FSN.This project include large database with million rows ,explored by SQL queries to extract  the desired data.
 This project is a blueprint of reporting tool for a newpaper site to discover what kind of articles the site's readers like .
