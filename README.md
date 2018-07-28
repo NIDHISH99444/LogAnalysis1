@@ -16,12 +16,12 @@ The database contains newspaper articles along with the web server logs.
 ## Steps 
 
 1. **vagrant up** is used to launching vagrant VM
-2. Typing *vagrant ssh* 
-3. *psql -d news -f newsdata.sql* commaned is used to load the data,connect the database and runnning the necessary SQL statements.
+2. Typing **vagrant ssh** 
+3. **psql -d news -f newsdata.sql** commaned is used to load the data,connect the database and runnning the necessary SQL statements.
 
 ### Database Tables :
 - Authors table
 - Articles table
 - Log table
 
-4. *python3 newsdata.py*  is used to execute command from command line 	
+4. **python3 newsdata.py**  is used to execute command from command line 	
